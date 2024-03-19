@@ -13,6 +13,10 @@ The script generates hyperlinks in an Issue List sheet that direct to correspond
 
 ### Examples
 
+![Demo Video](https://lh3.googleusercontent.com/pw/AP1GczO4simrUj6UbtIfxpnB7lR2IckIKLHuJsu5sGMvGe3NlmnZtDS24Def36OKUMxh01MXvGJLOi51ulnMIBOvHoG0XHV6HVvRynuJ98Mbopg9ce6veHE=w400)
+
+## [Demo Video](https://www.youtube.com/watch?v=HkRKs5GTG3w)
+
 You may view the [Example Google Sheets file](https://docs.google.com/spreadsheets/d/17bXaQZhOm4XIp8eGwpQQSJWO9Atp8A3DjL-HAAfv_jE/edit#gid=997947630).
 Please note that the file is view-only and you should make a copy of it if you wish to interact with it.
 
